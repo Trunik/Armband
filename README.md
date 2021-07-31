@@ -15,4 +15,6 @@ and battery capacity.
 This is so alpha software. it is alpha-alpha
 software.
 
+Will be updating more frequently. (I hope)
+
 

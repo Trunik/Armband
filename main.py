@@ -1,7 +1,7 @@
 # using Micropython for this project mostly due to the ability 
-# to use both processors in the RP2040. Circuitpython can not
+# to use both processors in the RP2040. CircuitPython can not
 # do that as of this writing, but Version 7 of CircuitPython 
-# will be released soon.
+# will be released soon. It might have it.
 
 import from machine UART, SPI, I2C, Pin
 import DS3231

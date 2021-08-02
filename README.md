@@ -21,7 +21,7 @@ Will be updating more frequently. (I hope)<br>
 Ran into trouble with the MH-ET LIVE Pulse/Oximeter sensor from Amazon.<br>
 It needed a solder bridge on the back to select 1.8V or 3.3V <br>
 <br>
-<img style="width: 365px; height: 365px;" alt="MAX30102 scshematic" src="file:///home/mike/armband/Armband/images/MAX30102-heartrate-sensor-schematic.jpg"><br>
+<img style="width: 365px; height: 365px;" alt="MAX30102 scshematic" src="file:///Armband/images/MAX30102-heartrate-sensor-schematic.jpg"><br>
 <br>
 although I think mine has solder pads to deal with this,<br>
 
